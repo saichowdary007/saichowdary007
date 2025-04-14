@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 <h1 align="center">Hello 👋, I'm sai pakalapati</h1>
 <h3 align="center">I AM a passionate software Developer</h3>
 
