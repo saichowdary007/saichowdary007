@@ -10,8 +10,7 @@
 
 - 🌱 I’m currently learning **AWS,FAST API.**
 
-- 👨‍💻 All of my projects are available at [sai-p-portfolio.vercel.app](sai-p-portfolio.vercel.app)
-
+- 👨‍💻 All of my projects are available at https://sai-p-portfolio.vercel.app/
 - 💬 Ask me about **Python.**
 
 - 📫 How to reach me **saikpakalapati@gmail.com**
