@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,FAST API.**
+- 🌱 I’m currently learning **Langchain,Gen AI,AWS,FAST API.**
 
 - 👨‍💻 All of my projects are available at https://sai-p-portfolio.vercel.app/
 - 💬 Ask me about **Python.**
